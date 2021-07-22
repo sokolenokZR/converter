@@ -1,0 +1,26 @@
+# Editors
+.vscode/
+.idea/
+
+#Calculator
+calculator/calculated/*
+
+#Dictionary
+Dictionary/google_map/secret.cfg
+Dictionary/google_map/traffic_jams.json
+
+#Dictionary/Translated
+Dictionary/translated/address.json
+Dictionary/translated/cars.json
+Dictionary/translated/customers.json
+Dictionary/translated/distance.json
+Dictionary/translated/owners.json
+
+#Exporter
+Exporter/exported_input/*
+
+#Input
+input/*
+
+#Output
+Output/*

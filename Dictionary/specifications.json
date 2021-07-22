@@ -1,0 +1,14 @@
+{
+    "\u041a\u0410\u041c\u0410\u0417": {
+        "fuel_rate": 30,
+        "fuel_tank_capacity": 300
+    },
+    "\u0428\u0410\u041a\u041c\u0410\u041d": {
+        "fuel_rate": 30,
+        "fuel_tank_capacity": 300
+    },
+    "\u041c\u0410\u0417": {
+        "fuel_rate": 45,
+        "fuel_tank_capacity": 450
+    }
+}
